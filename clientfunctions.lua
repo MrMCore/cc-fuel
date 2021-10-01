@@ -1,4 +1,4 @@
-local QBCore = exports['qb-core']:GetCoreObject()
+QBCore = nil 
 
 --Gets the current Weapon data when a player swaps weapon
 local CurrentWeaponData = nil
