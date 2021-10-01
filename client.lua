@@ -1,4 +1,4 @@
-local QBCore = exports['qb-core']:GetCoreObject()
+QBCore = nil 
 
 exports['qb-target']:AddVehicle({
     options = {
